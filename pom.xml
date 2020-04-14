@@ -41,5 +41,5 @@
         <name>jfrog-artifactory-snapshots</name>
         <url>http://35.232.89.42:8081/artifactory/maven-snapshot</url>
     </snapshotRepository>
-</distributionManagement
+  </distributionManagement>
 </project>
